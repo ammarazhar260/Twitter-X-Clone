@@ -1,4 +1,4 @@
-# 🐦 Twitter-X-Clone
+# Twitter-X-Clone
 I've Created Twitter (X) Clone, Its Also Responsive. Its a UI Project But I will add Functionality to it As Soon As possible.
 This is a **Twitter Clone** project built using modern web technologies to replicate the core UI and basic functionalities of Twitter. The project is structured for easy local development and viewing.
 
